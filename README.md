@@ -47,4 +47,4 @@ Inspired by open-source BCI research (UpsideDownLabs), but implemented with cust
 * Harshan A
 * Hari Baalaji R
 * Jahir
-* Hariharan
+* Dos Bence L
